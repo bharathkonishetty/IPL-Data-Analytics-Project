@@ -5,7 +5,8 @@
 This project analyzes IPL (Indian Premier League) ball-by-ball data using Python, Pandas, and Matplotlib to derive insights about player performance, team performance, scoring patterns, and bowling effectiveness.
 
 ## Dataset
-
+### Dataset Source
+IPL Deliveries Dataset obtained from Kaggle.
 * IPL Deliveries Dataset
 * 260,000+ ball-by-ball records
 * 17 columns including batter, bowler, runs, wickets, innings, and teams
